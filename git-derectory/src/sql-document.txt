@@ -1,0 +1,1 @@
+from login_table select * where id=5 and name like "*abdennour*";

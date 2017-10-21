@@ -1,0 +1,5 @@
+#root {
+	margin-left: 5px;
+	margin-right: 10px;
+	font-color: #141414;
+}
