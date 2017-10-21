@@ -1,1 +1,3 @@
 from login_table select * where id=5 and name like "*abdennour*";
+
+from oussama_table select * where age = 15;
