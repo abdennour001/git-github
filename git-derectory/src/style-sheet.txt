@@ -3,3 +3,8 @@
 	margin-right: 10px;
 	font-color: #141414;
 }
+
+.glass {
+	color: white;
+	background-blend: transparent;
+}
